@@ -1,0 +1,6 @@
+{
+  "_comment": "Rename this file to .clasp.json (which is git-ignored) and fill in your own scriptId. The scriptId is the long hash in the Apps Script project URL: https://script.google.com/u/0/home/projects/<SCRIPT_ID>/edit",
+  "scriptId": "PUT_YOUR_APPS_SCRIPT_PROJECT_ID_HERE",
+  "rootDir": ".",
+  "fileExtension": "gs"
+}
