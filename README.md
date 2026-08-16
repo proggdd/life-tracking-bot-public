@@ -220,6 +220,6 @@ MIT — see [`LICENSE`](./LICENSE).
 
 ## Author
 
-Built by Daniil (prog.gdd@gmail.com) as a personal tool, iterated with
+Built by Daniil (gddviet@gmail.com) as a personal tool, iterated with
 two real users into a case study for a data analytics / backend
 engineering career transition.
